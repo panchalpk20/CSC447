@@ -1,4 +1,4 @@
-# Scala Quiz Topics Overview
+# Scala Quiz 3 Topics Overview
 
 This document summarizes key concepts from the Scala Quiz (quiz 3.pdf), focusing on lists, recursion, and scoping.
 
