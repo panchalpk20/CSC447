@@ -329,8 +329,6 @@ While the quiz questions provide a basic exercise, it's essential to understand 
 
 **In summary**, lexical analysis is a critical step in language processing. It bridges the gap between the raw text of your code and the structured representation that compilers and interpreters use to understand and execute your programs. Understanding the basics of this phase, as highlighted in your quiz and the source material, provides a solid foundation for diving deeper into language implementation. 
 
-
-```markdown
 # Study Notes on Scala Concepts from Quiz 4
 
 <details>
@@ -547,4 +545,4 @@ def f[X](xs: List[X], ys: List[X]): List[X] = {
 - The recursive call is the last operation, allowing for optimization.
 
 </details>
-```
+
