@@ -1,6 +1,6 @@
 # Comprehensive Notes on Scala Fundamentals (Based on Quiz 3.pdf)
 
-The quiz you provided ("quiz 3.pdf") covers important aspects of Scala programming, focusing on lists, recursion, type inference, side effects, variable scoping, and closures. These notes provide a detailed explanation of each concept.
+The quiz3 covers  aspects of Scala programming, focusing on lists, recursion, type inference, side effects, variable scoping, and closures. These notes provide a detailed explanation of each concept.
 
 **1. Understanding Lists and Cons Cells**
 
